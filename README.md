@@ -2,7 +2,8 @@
  # Génération Intelligente de Questions pour les Tests de Recrutement
 
 ## 1. Description de la Plateforme
-Cette plateforme de recrutement intelligent utilise des technologies avancées telles que le Traitement Automatique du Langage Naturel (NLP) et des modèles de grandes dimensions (LLMs) pour optimiser la mise en relation entre candidats et recruteurs.
+Ce projet de Génération Intelligente de Questions pour les Tests de Recrutement a été réalisé en équipe au sein de **3D Smart Factory**. Notre équipe a collaboré pour développer cette plateforme innovante en utilisant des technologies avancées telles que le Traitement Automatique du Langage Naturel (NLP) et les modèles de grandes dimensions (LLMs).
+
 
 ### Fonctionnalités Principales :
 - **Analyse Automatique des CV** : Utilisation d'algorithmes de NLP pour extraire les compétences, l’expérience et les qualifications des CV soumis.
